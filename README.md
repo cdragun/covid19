@@ -8,4 +8,6 @@ Analysis of Covid-19 cases based on data reported on the European CDC website. T
 
 ### Modification History
 
+- 26 Mar 2020: Intial version
 - 27 Mar 2020: Mods for new ECDC file format
+- 30 Mar 2020: Added generic chart() function
