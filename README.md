@@ -13,5 +13,5 @@ Analysis of Covid-19 cases based on data reported on the European CDC website. T
 - 30 Mar 2020: Added generic chart() function; added pm_cases and pm_deaths (per million of population)
 - 11 Apr 2020: Added moving averages / new definition of fatality7 metric implemented
 - 07 May 2020: rpt_daily_stats() modified to filter countries (default is cum_deaths > 100)
-
+- 19 May 2020: Stop parsing Excel date; use other fields instead. Added consolidation at continent level
 
